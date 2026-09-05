@@ -1,0 +1,19 @@
+.page-list-results {
+    display: grid;
+    gap: 16px;
+}
+
+.page-list-results article {
+    padding: 20px;
+    border: 1px solid #ddd;
+    border-radius: 8px;
+}
+
+.page-list-results h3 {
+    margin-top: 0;
+}
+
+.page-list-results a {
+    display: inline-block;
+    margin-top: 8px;
+}
